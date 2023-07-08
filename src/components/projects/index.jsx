@@ -1,10 +1,10 @@
 import * as M from "./index.styled"
-import CSM from "/home/snurre/myportfolio/myporfolio/portfolio/src/images/csmscr.png"
-import Gamehub from "/home/snurre/myportfolio/myporfolio/portfolio/src/images/gamehubscr.png"
-import FoodCorner from "/home/snurre/myportfolio/myporfolio/portfolio/src/images/foodcornerscr.png"
-import Lux from "/home/snurre/myportfolio/myporfolio/portfolio/src/images/luuuux.png"
-import YourBnb from "/home/snurre/myportfolio/myporfolio/portfolio/src/images/Your.png"
-import YourStore from "/home/snurre/myportfolio/myporfolio/portfolio/src/images/yourstore.png"
+import CSM from "/home/snurre/myportfolio/myporfolio/src/images/csmscr.png"
+import Gamehub from "/home/snurre/myportfolio/myporfolio/src/images/gamehubscr.png"
+import FoodCorner from "/home/snurre/myportfolio/myporfolio/src/images/foodcornerscr.png"
+import Lux from "/home/snurre/myportfolio/myporfolio/src/images/luuuux.png"
+import YourBnb from "/home/snurre/myportfolio/myporfolio/src/images/Your.png"
+import YourStore from "/home/snurre/myportfolio/myporfolio/src/images/yourstore.png"
 function Projects() {
     return (
       <>
