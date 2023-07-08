@@ -1,5 +1,5 @@
 import * as Ho from "./index.styled"
-import Thomas from "/home/snurre/myportfolio/myporfolio/src/images/Thomas.jpg"
+import Thomas from "/home/snurre/myportfolio/myporfolio/src/Thomas.jpg"
 function Home() {
     return (
       <Ho.Wrapper>
