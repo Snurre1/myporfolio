@@ -6,7 +6,8 @@ text-align: center;`
 export const Container = styled.div`
 display: flex;
 flex-direction: row;
-flex-wrap: wrap;`
+flex-wrap: wrap;
+justify-content: center;`
 
 export const CardContainer = styled.div`
 text-align: center;
